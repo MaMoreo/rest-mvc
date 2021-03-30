@@ -14,7 +14,7 @@
 	<name>rest-mvc</name>
 	<description>A project that uses REST MVC</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 	   <dependency>
